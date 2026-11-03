@@ -2,14 +2,6 @@
 
 A personal Kanban board in a single web page: accounts, projects with values, a project × stage matrix, weekly statistics, and confetti when a card reaches Done. It works on phones and desktops.
 
-## Put it on GitHub Pages
-
-1. Create a new repository on GitHub. It can be public or private (private Pages needs a paid GitHub plan).
-2. Upload `index.html`, `README.md` and `.nojekyll` to the root of the repository. (`.nojekyll` is hidden on some computers; it's optional.)
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, set **Source** to *Deploy from a branch*, choose the `main` branch and the `/ (root)` folder, then **Save**.
-5. After a minute or two, the page is live at `https://<your-username>.github.io/<repository-name>/`.
-
 ## Accounts
 
 - The first time you open the page, you'll see **Create an account**: your name, a username or email, and a password of at least 8 characters.
